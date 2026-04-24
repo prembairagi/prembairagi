@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Prem 👋
 
-<!--
-**prembairagi/prembairagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BCS student | Cybersecurity · Backend Dev · QA Automation
 
-Here are some ideas to get you started:
+- 🔐 Building security tools with Python, Snort, and Azure
+- 💻 Currently working on an AI tools directory
+- 🎯 Open to fresher roles in Cybersecurity / Backend / QA
+- 📍 Sambhajinagar, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python · PHP · C · C++ · MySQL · Kali Linux · Burp Suite · Snort · Azure
+
+## Certifications
+- Deloitte Cyber Job Simulation — Forage
+- TCS Cybersecurity Analyst Simulation — Forage  
+- Google Cloud Generative AI Studio — Simplilearn
